@@ -1,4 +1,4 @@
-# Heroku Deploy for Wiki.js
+# Melor World Repo
 
 This repo is an Heroku app definition for Wiki.js.  
 For information about Wiki.js, including detailed installation steps, read the following links:
